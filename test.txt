@@ -1,9 +1,5 @@
-The quick brown fox jumps over the lazy dog. This sentence contains all the letters in the English alphabet. It is often used for typing practice and testing fonts.
 
-Programming is the process of creating a set of instructions that tell a computer how to perform a task. Programming can be done using many programming languages such as C, Python, Java, and JavaScript.
 
-The C programming language is one of the most influential and widely used programming languages. It provides low-level access to memory and requires minimal runtime support. C was developed by Dennis Ritchie at Bell Labs in the early 1970s.
 
-Get_next_line is a function that reads a line from a file descriptor. A line is a sequence of characters terminated by a newline character. This project will teach you about static variables and file reading in C.
 
-The end of the file has been reached. This is the final paragraph of our test document. Goodbye!
+

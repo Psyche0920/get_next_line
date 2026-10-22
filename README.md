@@ -1,15 +1,4 @@
-<!-- repository-badges:start -->
-<div align="center">
-
-[![Contributors](https://img.shields.io/github/contributors/Psyche0920/get_next_line?style=for-the-badge)](https://github.com/Psyche0920/get_next_line/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/Psyche0920/get_next_line?style=for-the-badge)](https://github.com/Psyche0920/get_next_line/forks)
-[![Stars](https://img.shields.io/github/stars/Psyche0920/get_next_line?style=for-the-badge)](https://github.com/Psyche0920/get_next_line/stargazers)
-[![Issues](https://img.shields.io/github/issues/Psyche0920/get_next_line?style=for-the-badge)](https://github.com/Psyche0920/get_next_line/issues)
-[![License](https://img.shields.io/badge/license-not_specified-lightgrey?style=for-the-badge)](https://github.com/Psyche0920/get_next_line)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Weijia_Han-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/weijia-han-6162581b5/)
-
-</div>
-<!-- repository-badges:end -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-78C943?style=for-the-badge)](LICENSE)
 
 # 📖 get_next_line
 
@@ -288,3 +277,8 @@ GitHub: https://github.com/Psyche0920
 
 [1]: https://github.com/f-corvaro/GET_NEXT_LINE?utm_source=chatgpt.com "GitHub - f-corvaro/GET_NEXT_LINE: \"Line-by-Line File Reader\""
 [2]: https://github.com/augustobecker/get_next_line?utm_source=chatgpt.com "GitHub - augustobecker/get_next_line: A C function that reads any valid file line by line - @42sp Project"
+
+
+## Licensing
+
+Project code is available under the [MIT License](LICENSE). Third-party assets retain their original licenses and attribution requirements; this license does not relicense third-party media, datasets, model weights, or trademarks.
